@@ -3,6 +3,6 @@
 int main(void)
 {
 //eagasge
-   printf("im zr\n");
+   printf("im zr hahahaha!\n");
     return 0;
 }
